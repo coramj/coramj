@@ -1,4 +1,4 @@
-# Bienvenido a mi taller de código
+# Bienvenido a mi GitHub!
 
 <p>
   <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="16" height="16"> Estudiante<br>
@@ -42,8 +42,8 @@ Lógica, algoritmos y scripts de propósito general.
 <p>
   <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/desktop-download-16.svg" width="16" height="16"> <strong>Sistema Operativo:</strong> Fedora / Linux Mint / Win 11<br>
   <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="16" height="16"> <strong>Editor:</strong> [VS Code / Antigraity / Nano]<br>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16"> <strong>Hardware:</strong> [Intel i5 14600KF, 32GB DDR5, RTX5060]
-   <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16"> <strong>Hardware:</strong> [MacBook Air 2015, i5 ]
+  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16"> <strong>PC</strong> Intel i5 14600KF, 32GB DDR5, RTX5060 <br>
+   <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16"> <strong>Laptop</strong> MacBook Air 2015, Intel i5 5250U,  8GB  LPDDR3 <br>
 </p>
 
 ---
