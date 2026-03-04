@@ -31,9 +31,9 @@ Lógica, algoritmos y scripts de propósito general.
 
 ## Repositorios y Proyectos
 
-* **[Código fuente de mi Portafolio]([ENLACE_A_TU_REPO])**
+* **[Código fuente de mi Portafolio](https://github.com/coramj/portfolio-2026-minimal)**
   La base de mi espacio web personal donde alojo mi perfil para buscar trabajo.
-  **Ver web en producción:** [Enlace a Vercel/Netlify]
+  **Ver web en producción:** https://coramj.netlify.app 
 
 ---
 
