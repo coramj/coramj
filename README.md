@@ -41,17 +41,7 @@ Lógica, algoritmos y scripts de propósito general.
 
 <p>
   <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/desktop-download-16.svg" width="16" height="16"> <strong>Sistema Operativo:</strong> Fedora / Linux Mint / Win 11<br>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="16" height="16"> <strong>Editor:</strong> [VS Code / Antigraity / Nano]<br>
+  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="16" height="16"> <strong>Editor:</strong> VS Code / Antigraity / Nano<br>
   <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16"> <strong>PC</strong> Intel i5 14600KF, 32GB DDR5, RTX5060 <br>
    <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16"> <strong>Laptop</strong> MacBook Air 2015, Intel i5 5250U,  8GB  LPDDR3 <br>
-</p>
-
----
-
-## Contacto
-
-Si quieres hablar de código, hardware o colaborar en algún proyecto:
-
-<p>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mail-16.svg" width="16" height="16"> <a href="mailto:tu-correo@email.com">tu-correo@email.com</a>
 </p>
