@@ -1,47 +1,47 @@
-# Bienvenido a mi GitHub!
+# ¡Bienvenido a mi GitHub!
 
-<p>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg" width="16" height="16"> Estudiante<br>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/location-16.svg" width="16" height="16"> España<br>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cpu-16.svg" width="16" height="16"> Apasionado del hardware y trasteador de sistemas<br>
-</p>
+\<p>   \<img src="[https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg](https://raw.githubusercontent.com/primer/octicons/main/icons/briefcase-16.svg)" width="16" height="16"> Estudiante\<br>   \<img src="[https://raw.githubusercontent.com/primer/octicons/main/icons/location-16.svg](https://raw.githubusercontent.com/primer/octicons/main/icons/location-16.svg)" width="16" height="16"> España\<br>   \<img src="[https://raw.githubusercontent.com/primer/octicons/main/icons/cpu-16.svg](https://raw.githubusercontent.com/primer/octicons/main/icons/cpu-16.svg)" width="16" height="16"> Interesado en la tecnología, el hardware y la informática \</p>
 
-Aquí guardo mis proyectos personales, mis pruebas y las herramientas que construyo en mi tiempo libre.
+Este es mi pequeño rincón para compartir proyectos, experimentar con ideas y aprender cosas nuevas. Aquí encontrarás desde pequeños desarrollos web hasta pruebas y proyectos personales.
 
 ---
 
-## Stack y Herramientas
+## Tecnologías
 
-**Lenguajes y Entornos Habituales:**
-Desarrollo web y automatización de sistemas.
+**Lo que utilizo**
 
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Desarrollo web y pequeños proyectos personales.
 
-**Explorando y Aprendiendo:**
-Lógica, algoritmos y scripts de propósito general.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
----
+\
 
-## Repositorios y Proyectos
 
-* **[Código fuente de mi Portafolio](https://github.com/coramj/portfolio-2026-minimal)**
-  La base de mi espacio web personal donde alojo mi perfil para buscar trabajo.
-  **Ver web en producción:** https://coramj.netlify.app 
+**Aprendiendo y experimentando**
+
+Siempre hay algún lenguaje nuevo al que echarle el guante.
+
+
+\
+
 
 ---
 
-## Mi Entorno (Setup)
+## Proyectos
 
-<p>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/desktop-download-16.svg" width="16" height="16"> <strong>Sistema Operativo:</strong> Fedora / Linux Mint / Win 11<br>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="16" height="16"> <strong>Editor:</strong> VS Code / Antigraity / Nano<br>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16"> <strong>PC</strong> Intel i5 14600KF, 32GB DDR5, RTX5060 <br>
-   <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16"> <strong>Laptop</strong> MacBook Air 2015, Intel i5 5250U,  8GB  LPDDR3 <br>
-</p>
+[**Mi portfolio personal**](https://github.com/coramj/portfolio-2026-minimal)
+
+Código fuente de mi página web personal, donde reúno información sobre mí, mis proyectos y mi trayectoria.
+
+**Web:** [coramj.netlify.app](https://coramj.netlify.app)
+
+---
+
+## Mi entorno
+
+\<p>
+&#x20; \<img src="[https://raw.githubusercontent.com/primer/octicons/main/icons/desktop-download-16.svg](https://raw.githubusercontent.com/primer/octicons/main/icons/desktop-download-16.svg)" width="16" height="16"> \<strong>Sistemas:\</strong> Fedora / Linux Mint / Windows 11\<br>
+&#x20; \<img src="[https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg](https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg)" width="16" height="16"> \<strong>Editores:\</strong> VS Code / Antigravity / Nano\<br>
+&#x20; \<img src="[https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg](https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg)" width="16" height="16"> \<strong>PC:\</strong> Intel i5-14600KF · 32 GB DDR5 · RTX 5060\<br>
+&#x20; \<img src="[https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg](https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg)" width="16" height="16"> \<strong>Laptop:\</strong> Lenovo ThinkPad X1 Carbon Gen 9 · Intel i7-1165G7 · 32 GB RAM
+\</p>
