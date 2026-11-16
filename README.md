@@ -40,9 +40,7 @@ I'm into coding lol
 
 **01 — Personal Portfolio**
 
-My portfolio ->
-
-[![Visit website](https://img.shields.io/badge/VISIT_WEBSITE-E53935?style=for-the-badge&logo=googlechrome&logoColor=white)](https://coramj.runs-on.dev/)
+My portfolio -> [![Visit website](https://img.shields.io/badge/VISIT_WEBSITE-E53935?style=for-the-badge&logo=googlechrome&logoColor=white)](https://coramj.runs-on.dev/)
 
 [Source code](https://github.com/coramj/portfolio2027)
 
